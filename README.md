@@ -2,7 +2,7 @@
 ## RSCUAD-Wiki
 ![alt text](https://github.com/R-SCUAD-PROGRESS/wiki/blob/main/asset/icon.jpg?raw=true)
 
-[![wiki](https://img.shields.io/badge/R--SCUAD-wiki-brightgreen?style=plactic&logo=wikipedia)](https://github.com/rscuad/wiki/wiki)
+[![wiki](https://img.shields.io/badge/R--SCUAD-wiki-brightgreen?style=plactic&logo=wikipedia)](https://github.com/R-SCUAD-PROGRESS/wiki/wiki)
 [![instagram](https://img.shields.io/badge/R--SCUAD-instagram-ff69b4?style=plactic&logo=instagram)](https://www.instagram.com/rscuad.uad/)
 [![website](https://img.shields.io/badge/R--SCUAD-website-9cf?style=plactic&logo=google)](https://rscuad.github.io/)
 
